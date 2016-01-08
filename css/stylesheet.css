@@ -1,0 +1,117 @@
+.version1    {
+    font-family: 'Libre Baskerville', Georgia, Times, 'Times New Roman' serif;}
+
+.version2    { font-family: 'Open Sans', 'helvetica', 'arial', 'futura'; sans-serif; } 
+
+.version3   { font-family: 'open sans', sans-serif;
+}
+
+
+body    {
+    width: 70%;
+    margin: auto;
+    max-width; 650px;
+    min-height: 320px;
+   
+    
+}
+
+
+h1  {
+    font-size: 3.375em;
+    font-weight: normal;
+    margin: auto;
+    
+    
+}
+
+h2  {
+    margin: auto;
+    font-weight: normal;
+    padding-bottom: 1.5em;
+    
+        
+}
+        
+
+h3  {
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 1em;
+    padding-top: 2em;
+    margin:auto;
+}
+
+p   {
+    line-height: 1.5em;
+    font-size: .667em;
+}
+
+.p1  { padding-bottom: 1.5em;
+    font-size: 1em;
+    
+}
+
+.p2 {
+    padding-bottom: 2em;
+}
+
+
+.dropcap    {
+    float: left;
+    font-size:5.063em;
+    padding-bottom: .25em;
+    
+}
+
+blockquote  {
+    font-size: 1.5em;
+    color: #999;
+    margin: auto;
+    padding-bottom: 3em;
+}
+
+cite    {
+    font-size: .444em;
+    
+}
+   
+
+
+.jb { text-transform: uppercase;
+}
+
+
+.version2 h3    {margin-top: 1em;}
+
+.version2 p {margin:0;}
+
+.p11    {padding-bottom: 1em;}
+
+.id {padding-left: 1.5em;}
+
+.p12   {padding-bottom: 2em;}
+
+.c2 {font-style: normal;
+    text-transform: uppercase;
+}
+
+.version3 h1    {font-family: 'slabo 13px';
+margin: 0;}
+
+.version3 h2    {font-family: 'slabo 13px';
+font-weight: 800;
+margin: 0;}
+
+.version3 h3    {padding-top: 4em;}
+
+.version3 blockquote {font-family: 'slabo 13px';
+padding-top: 1em;
+margin-bottom: 0;}
+
+
+
+
+
+
+
